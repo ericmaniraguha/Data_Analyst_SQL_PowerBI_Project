@@ -23,4 +23,5 @@ SELECT TOP (1000) [DateKey] ,
  --,[FiscalSemester]
 
 FROM [AdventureWorksDW2019].[dbo].[DimDate]
-WHERE CalendarYear >= 2019
+WHERE
+    CalendarYear IN (2021, 2022, 2023)

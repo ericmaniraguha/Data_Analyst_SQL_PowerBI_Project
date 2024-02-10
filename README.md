@@ -56,3 +56,18 @@ After running `Update_AdventureWorksDW_Data.sql`, both databases (AdventureWorks
 For detailed technical tasks and instructions, refer to the provided script `Update_AdventureWorksDW_Data.sql`.
 
 **Note:** Ensure that you have appropriate permissions and configurations in SQL Server Management Studio to perform these tasks effectively.
+
+## All results images
+
+![alt text](<01 Loading and Data Transformation PowerBI-2.png>)
+
+![alt text](<02 Model Relationship-2.png>)
+
+![alt text](<03. Sales Overview Dashboard-1.png>)
+
+![alt text](<04. Customers Details Dashboard-1.png>)
+
+## Final Project Dashboard
+
+You can access the final project dashboard by clicking [here](https://app.powerbi.com/links/lNn0eqjFuj?ctid=e36ee38f-91b8-4dca-9b13-caa5360c9714&pbi_source=linkShare).
+
